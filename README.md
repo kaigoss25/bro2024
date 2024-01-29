@@ -1,28 +1,28 @@
-# <p align="center" color="red">Trần Ngọc Tiến</p>
+# <p align="center" color="red">Thiền Nguyễn Thành Hưng</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/kaigoss25">
+	<img src="" width = "200" alt="kaigoss25">
 	</a>
 </p>
 
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace KaiGossWN
 {
-    class ngoctienTNT
+    class kaigoss25
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Thiền Nguyễn Thành Hưng";
+            string Age = "2007";
             string Gender = "Male";
-	    string Email = "ngoctienTNT.vn@gmail.com";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+	    string Email = "2910icarus@gmail.com";
+            string Address = "Kỳ Anh,Hà Tĩnh,Việt Nam";
+            string University = "Trường THPT Nguyễn Huệ";
             string Skills = "C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string FamousQuotes = "Sự hiểu biết của bạn tỉ lệ nghịch với cái tôi!";
         }
     }
 }
