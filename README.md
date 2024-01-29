@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/kaigoss25">
-	<img src="" width = "200" alt="kaigoss25">
+	<img src="https://dff.vn/uploads/avatar/2024/01/27/418787290_1098327981348692_4493656747113202410_n-1706346399.jpg" width = "200" alt="kaigoss25">
 	</a>
 </p>
 
