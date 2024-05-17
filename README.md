@@ -3,6 +3,7 @@
 <p align="center">
 	<a href="https://github.com/kaigoss25">
 	<img src="https://dff.vn/uploads/avatar/2024/01/27/418787290_1098327981348692_4493656747113202410_n-1706346399.jpg" width = "200" alt="kaigoss25">
+	kaigoswn in blogspot and substack
 	</a>
 </p>
 
@@ -16,7 +17,7 @@ namespace KaiGossWN
         static void Main(string[] args)
         {
             string Name = "Thiền Nguyễn Thành Hưng";
-            string Age = "2007";
+            string Age = "16";
             string Gender = "Male";
 	    string Email = "2910icarus@gmail.com";
             string Address = "Kỳ Anh,Hà Tĩnh,Việt Nam";
